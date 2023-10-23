@@ -25,7 +25,7 @@ Lan Gao is currently an Associate Professor with the School of Information Scien
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 -->
 
-# Research Interests
+# Research
 His current research interests include distributed cooperative control, privacy preservation, and distributed optimization in networked control systems.
 
 # Teaching
