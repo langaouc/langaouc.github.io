@@ -1,16 +1,16 @@
 # main links links
 main:
   - title: "About Me"
-    url: "/#about-me"
+    url: "/"
 
   # - title: "News"
-  #   url: "/#-news"
+  #   url: "/"
 
   - title: "Research"
-    url: "/#-Research"
+    url: "/"
   
   - title: "Teaching"
-    url: "/#-Teaching"
+    url: "/"
 
   - title: "Publications"
     url: "/"
@@ -19,7 +19,7 @@ main:
     url: "/"
 
   # - title: "Invited Talks"
-  #   url: "/#-invited-talks"
+  #   url: "/"
 
   # - title: "Internships"
-  #   url: "/#-internships"
+  #   url: "/"
