@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 Lan Gao is currently an Associate Professor with the School of Information Science and Technology, Hangzhou Normal University, Hangzhou 311121, China. He received the Ph.D. degree from the School of Computer Science and Technology, Chongqing University, in 2018. He was a joint Ph.D. student with the Department of Electrical and Computer Engineering, University of California, Riverside, CA 92521, USA, from 2016 to 2018. He was a postdoctoral research fellow with the School of Electrical Engineering and Automation, Beihang University, Beijing 100191, China, from 2020 to 2022.
-My current research interests include distributed cooperative control, privacy preservation, and distributed optimization in networked control systems.
+His current research interests include distributed cooperative control, privacy preservation, and distributed optimization in networked control systems.
 
 # 🔥 News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
