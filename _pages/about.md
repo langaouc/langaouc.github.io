@@ -29,18 +29,15 @@ Lan Gao is currently an Associate Professor with the School of Information Scien
 His current research interests include distributed cooperative control, privacy preservation, and distributed optimization in networked control systems.
 
 # Teaching
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- Distributed Computing and Cloud Computing, Graduade Courses, 2023.06 - Now.  
 
-# Publications 
+# Selected Publications 
 1. **Gao Lan**, Zhou Yiqun, Chen Xin, Cai Runfeng, Chen Guo, Li Chaojie. Privacy-preserving Dynamic Average Consensus via Random Perturbation[J]. IEEE Transactions on Circuits and Systems II: Express Briefs, 2023, 70(4): 1490-1494. (2022IF: 4.4, 中科院二区, [PDF](http://langaouc.github.io/files/TCAS-II-2023.pdf))
-1. **Gao Lan**, Deng Shaojiang, Li Huaqing, Li Chaojie. An Event-Triggered Approach for Gradient Tracking in Consensus-based Distributed Optimization[J]. IEEE Transactions on Network Science and Engineering, 2022, 9(2): 510-523. (2022IF: 6.6, 中科院二区, Q1)
-1. Xu Kedong, **Gao Lan**\*, Chen Fei, Li Chaojie and Xuan Qi. Robust Finite-time Dynamic Average Consensus with Exponential Convergence Rates[J]. IEEE Transactions on Circuits and Systems II: Express Briefs, 2021, 68(7): 2578-2582. (2022IF: 4.4, 中科院二区, Q2)
-1. **Gao Lan**, Deng Shaojiang, Ren Wei, Hu Chunqiang. Differentially Private Consensus with Quantized Communication[J]. IEEE Transactions on Cybernetics, 2021, 51(8): 4075-4088. (2022IF: 11.8, 中科院一区, Q1)
-1. **Gao Lan**, Deng Shaojiang, Ren Wei. Differentially Private Consensus with an Event-Triggered Mechanism[J]. IEEE Transactions on Control of Network Systems, 2019, 6(1): 60-71. (2022IF: 4.2, 中科院三区, Q2)
-1. **Gao Lan**, Liao Xiaofeng, Li Huaqing. Pinning Controllability Analysis of Complex Networks with a Distributed Event-Triggered Mechanism[J]. IEEE Transactions on Circuits and Systems II: Express Briefs, 2014, 61(7): 541-545. (2022IF: 4.4, 中科院二区, Q2)
-1. **Gao Lan**, Liao Xiaofeng, Li Huaqing, Chen Guo. Event-Triggered Control for Multi-Agent Network with Limited Digital Communication[J]. Nonlinear Dynamics, 2015, 82(4): 1659-1669. (2022IF: 5.6, 中科院二区, Q1)
-1. **Gao Lan**, Liao Xiaofeng, Li Huaqing, Chen Guo. Event-Triggered Control for Multi-Agent Systems with General Directed Topology and Time-Delays[J]. Asian Journal of Control, 2016, 18(3): 945-953. (2022IF: 2.4, 中科院四区, Q3)
+1. **Gao Lan**, Deng Shaojiang, Li Huaqing, Li Chaojie. An Event-Triggered Approach for Gradient Tracking in Consensus-based Distributed Optimization[J]. IEEE Transactions on Network Science and Engineering, 2022, 9(2): 510-523. (2022IF: 6.6, 中科院二区, [PDF](http://langaouc.github.io/files/TNSE.pdf))
+1. Xu Kedong, **Gao Lan**\*, Chen Fei, Li Chaojie and Xuan Qi. Robust Finite-time Dynamic Average Consensus with Exponential Convergence Rates[J]. IEEE Transactions on Circuits and Systems II: Express Briefs, 2021, 68(7): 2578-2582. (2022IF: 4.4, 中科院二区, [PDF](http://langaouc.github.io/files/TCAS-II-2021.pdf))
+1. **Gao Lan**, Deng Shaojiang, Ren Wei, Hu Chunqiang. Differentially Private Consensus with Quantized Communication[J]. IEEE Transactions on Cybernetics, 2021, 51(8): 4075-4088. (2022IF: 11.8, 中科院一区, [PDF](http://langaouc.github.io/files/TCYB.pdf))
+1. **Gao Lan**, Deng Shaojiang, Ren Wei. Differentially Private Consensus with an Event-Triggered Mechanism[J]. IEEE Transactions on Control of Network Systems, 2019, 6(1): 60-71. (2022IF: 4.2, 中科院三区, [PDF](http://langaouc.github.io/files/TCNS.pdf))
+1. **Gao Lan**, Liao Xiaofeng, Li Huaqing. Pinning Controllability Analysis of Complex Networks with a Distributed Event-Triggered Mechanism[J]. IEEE Transactions on Circuits and Systems II: Express Briefs, 2014, 61(7): 541-545. (2022IF: 4.4, 中科院二区, [PDF](http://langaouc.github.io/files/TCAS-II.pdf))
 
 # Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
