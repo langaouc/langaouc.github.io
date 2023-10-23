@@ -13,10 +13,10 @@ main:
     url: "/#-Teaching"
 
   - title: "Publications"
-    url: "/"
+    url: "/Selected Publications"
 
   - title: "Honors and Awards"
-    url: "/"
+    url: "/Honors and Awards"
 
   # - title: "Invited Talks"
   #   url: "/#-invited-talks"
