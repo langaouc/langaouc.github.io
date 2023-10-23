@@ -6,7 +6,7 @@ main:
   # - title: "News"
   #   url: "/#-news"
 
-  - title: "Research Interests"
+  - title: "Research"
     url: "/#-research"
   
   - title: "Teaching"
@@ -16,6 +16,9 @@ main:
     url: "/#-publications"
 
   - title: "Honors and Awards"
+    url: "/#-honors-and-awards"
+
+  - title: "CV"
     url: "/#-honors-and-awards"
 
   # - title: "Invited Talks"
