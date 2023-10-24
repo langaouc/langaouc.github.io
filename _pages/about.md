@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lan Gao is currently an Associate Professor with the School of Information Science and Technology, Hangzhou Normal University, Hangzhou 311121, China. He received the Ph.D. degree from the School of Computer Science and Technology, Chongqing University, in 2018. He was a joint Ph.D. student with the Department of Electrical and Computer Engineering, University of California, Riverside, CA 92521, USA, from 2016 to 2018. He was a postdoctoral research fellow with the School of Electrical Engineering and Automation, Beihang University, Beijing 100191, China, from 2020 to 2022.
+Lan Gao is currently an associate professor with the School of Information Science and Technology, Hangzhou Normal University, Hangzhou 311121, China. He received the Ph.D. degree from the School of Computer Science and Technology, Chongqing University, in 2018. He was a joint Ph.D. student with the Department of Electrical and Computer Engineering, University of California, Riverside, CA 92521, USA, from 2016 to 2018. He was a postdoctoral research fellow with the School of Electrical Engineering and Automation, Beihang University, Beijing 100191, China, from 2020 to 2022.
 
 <!--
 # News
@@ -29,7 +29,7 @@ Lan Gao is currently an Associate Professor with the School of Information Scien
 His current research interests include distributed cooperative control, privacy preservation, and distributed optimization in networked control systems.
 
 # Teaching
-- Distributed Computing and Cloud Computing, Graduade Courses, 2023.06 - Now.  
+- Distributed Computing and Cloud Computing, Graduade Courses, 2023.03 - Now.  
 
 # Selected Publications 
 1. **Gao Lan**, Zhou Yiqun, Chen Xin, Cai Runfeng, Chen Guo, Li Chaojie. Privacy-preserving Dynamic Average Consensus via Random Perturbation[J]. IEEE Transactions on Circuits and Systems II: Express Briefs, 2023, 70(4): 1490-1494. (2022IF: 4.4, 中科院二区, [PDF](http://langaouc.github.io/files/TCAS-II-2023.pdf))
