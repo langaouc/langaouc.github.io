@@ -21,19 +21,22 @@ redirect_from:
 高澜，副教授，硕士生导师，重庆大学计算机专业博士，美国加州大学河滨分校联合培养博士。本人主要从事自主智能系统协同控制、安全隐私保护、分布式优化计算等方向的前沿研究工作，以第一或通讯作者身份在IEEE Transactions on Automation Science and Engineering，IEEE Transactions on Control of Network Systems，IEEE Transactions on Cybernetics等国际权威期刊发表SCI论文十余篇。此外，申请发明专利4项，授权1项。
 科研项目方面，主持国家自然科学基金青年项目1项，国家博士后基金面上项目1项以及浙江省自然科学基金青年项目1项，同时参与国家重点研发计划课题1项和国家自然科学基金面上项目1项。
 
-<!--
-# News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
--->
-
 # 研究领域
-本人主要从事自主智能系统协同控制、安全隐私保护、分布式优化计算等方向的前沿研究工作。
+主要从事自主智能系统协同控制、安全隐私保护、分布式优化计算等方向的前沿研究工作。具体来说，主要研究无人机、无人车等自主智能系统之间的协同控制问题，通过开发新颖的多机/多车协同控制算法实现无人机/无人车的编队协同，进而协同完成给定的任务。第二，针对多无人系统（无人驾驶汽车、分布式智能电网、分布式集群计算）协同所面临的安全隐私保护问题，通过设计精巧的隐私保护算法，使其在具备隐私保护的前提下实现协同控制的目的。第三，针对大规模机器学习/深度学习所面临的计算瓶颈问题，基于分布式思想开发适用于大型服务器集群的分布式优化与计算方法，提高整个集群的计算效率。
 
-# 教学课程
-- 分布式计算与云计算, 研究生课程, 2023.03 - 至今.
+# 研究生招生
+欢迎对以上研究方向感兴趣的同学报名加入，联系请附个人简历。
 
-# 工作经历：
+联系邮箱：langao@hznu.edu.cn
+
+# 教育和工作经历：
+## 教育经历
+- 2016.09-2018.08：美国加州大学河滨分校，联合培养博士，电气与计算机工程
+- 2015.09-2018.12：重庆大学，工学博士，计算机科学与技术
+- 2012.09-2015.06：重庆大学，工学硕士，计算机科学与技术
+- 2008.09-2012.06：山东石油化工学院，理学学士，信息与计算科学
+
+## 工作经历
 - 2022/12-至今：杭州师范大学 信息科学与技术学院 副教授
 - 2020/10-2022/11：北航杭州创新研究院  博士后
 - 2019/04-2020/09：浙江工业大学 信息工程学院 校聘副教授
@@ -54,10 +57,4 @@ redirect_from:
 # Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
--->
-
-<!--
-# Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 -->
