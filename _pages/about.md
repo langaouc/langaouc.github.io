@@ -17,7 +17,8 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lan Gao is currently an associate professor with the School of Information Science and Technology, Hangzhou Normal University, Hangzhou 311121, China. He received the Ph.D. degree from the School of Computer Science and Technology, Chongqing University, in 2018. He was a joint Ph.D. student with the Department of Electrical and Computer Engineering, University of California, Riverside, CA 92521, USA, from 2016 to 2018. He was a postdoctoral research fellow with the School of Electrical Engineering and Automation, Beihang University, Beijing 100191, China, from 2020 to 2022.
+高澜，副教授，硕士生导师，重庆大学计算机专业博士，美国加州大学河滨分校联合培养博士。本人主要从事自主智能系统协同控制、安全隐私保护、分布式优化计算等方向的前沿研究工作，以第一或通讯作者身份在IEEE Transactions on Automation Science and Engineering，IEEE Transactions on Control of Network Systems，IEEE Transactions on Cybernetics等国际权威期刊发表SCI论文十余篇。此外，申请发明专利4项，授权1项。
+科研项目方面，主持国家自然科学基金青年项目1项，国家博士后基金面上项目1项以及浙江省自然科学基金青年项目1项，同时参与国家重点研发计划课题1项和国家自然科学基金面上项目1项。
 
 <!--
 # News
@@ -25,23 +26,34 @@ Lan Gao is currently an associate professor with the School of Information Scien
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 -->
 
-# Research
-His current research interests include distributed cooperative control, privacy preservation, and distributed optimization in networked control systems.
+# 研究领域
+本人主要从事自主智能系统协同控制、安全隐私保护、分布式优化计算等方向的前沿研究工作。
 
-# Teaching
-- Distributed Computing and Cloud Computing, Graduade Courses, 2023.03 - Now.  
+# 课程教学
+- 分布式计算与云计算, 研究生课程, 2023.03 - 至今.
 
-# Selected Publications 
+# 工作经历：
+- 2022/12-至今：杭州师范大学 信息科学与技术学院 副教授
+- 2020/10-2022/11：北航杭州创新研究院  博士后
+- 2019/04-2020/09：浙江工业大学 信息工程学院 校聘副教授
+
+# 论文发表 
+1. **Gao Lan**, Lu Hao, Wang Jianliang, Yu Xiang, Jiang Peng, Chen Fei, Li Huaqing. Robust Distributed Average Tracking With Disturbance Observer Control[J]. IEEE Transactions on Automation Science and Engineering, 2024, Early Online. (2022IF: 5.6, 中科院一区, [PDF](http://langaouc.github.io/files/TASE.pdf))
+1. Lu Hao, **Gao Lan**\*, Yan Yunda, Hou Mingzhe, Wang Chenliang. Wind disturbance compensated path-following control for fixed-wing UAVs in arbitrarily strong winds[J]. Chinese Journal of Aeronautics, 2024, 37(2): 431-445. (2022IF: 5.7, 中科院一区, [PDF](http://langaouc.github.io/files/CJA.pdf))
 1. **Gao Lan**, Zhou Yiqun, Chen Xin, Cai Runfeng, Chen Guo, Li Chaojie. Privacy-preserving Dynamic Average Consensus via Random Perturbation[J]. IEEE Transactions on Circuits and Systems II: Express Briefs, 2023, 70(4): 1490-1494. (2022IF: 4.4, 中科院二区, [PDF](http://langaouc.github.io/files/TCAS-II-2023.pdf))
 1. **Gao Lan**, Deng Shaojiang, Li Huaqing, Li Chaojie. An Event-Triggered Approach for Gradient Tracking in Consensus-based Distributed Optimization[J]. IEEE Transactions on Network Science and Engineering, 2022, 9(2): 510-523. (2022IF: 6.6, 中科院二区, [PDF](http://langaouc.github.io/files/TNSE.pdf))
 1. Xu Kedong, **Gao Lan**\*, Chen Fei, Li Chaojie and Xuan Qi. Robust Finite-time Dynamic Average Consensus with Exponential Convergence Rates[J]. IEEE Transactions on Circuits and Systems II: Express Briefs, 2021, 68(7): 2578-2582. (2022IF: 4.4, 中科院二区, [PDF](http://langaouc.github.io/files/TCAS-II-2021.pdf))
 1. **Gao Lan**, Deng Shaojiang, Ren Wei, Hu Chunqiang. Differentially Private Consensus with Quantized Communication[J]. IEEE Transactions on Cybernetics, 2021, 51(8): 4075-4088. (2022IF: 11.8, 中科院一区, [PDF](http://langaouc.github.io/files/TCYB.pdf))
 1. **Gao Lan**, Deng Shaojiang, Ren Wei. Differentially Private Consensus with an Event-Triggered Mechanism[J]. IEEE Transactions on Control of Network Systems, 2019, 6(1): 60-71. (2022IF: 4.2, 中科院三区, [PDF](http://langaouc.github.io/files/TCNS.pdf))
 1. **Gao Lan**, Liao Xiaofeng, Li Huaqing. Pinning Controllability Analysis of Complex Networks with a Distributed Event-Triggered Mechanism[J]. IEEE Transactions on Circuits and Systems II: Express Briefs, 2014, 61(7): 541-545. (2022IF: 4.4, 中科院二区, [PDF](http://langaouc.github.io/files/TCAS-II.pdf))
+1. **Gao Lan**, Liao Xiaofeng, Li Huaqing, Chen Guo. Event-Triggered Control for Multi-Agent Network with Limited Digital Communication[J]. Nonlinear Dynamics, 2015, 82(4): 1659-1669. (2022IF: 5.6, 中科院二区, [PDF](http://langaouc.github.io/files/ND.pdf))
+1. **Gao Lan**, Liao Xiaofeng, Li Huaqing, Chen Guo. Event-Triggered Control for Multi-Agent Systems with General Directed Topology and Time-Delays[J]. Asian Journal of Control, 2016, 18(3): 945-953. (2022IF: 2.4, 中科院四区, [PDF](http://langaouc.github.io/files/AJC.pdf))
 
+<!--
 # Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
+-->
 
 <!--
 # Invited Talks
