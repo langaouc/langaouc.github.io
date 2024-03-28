@@ -60,7 +60,7 @@ redirect_from:
 1. **Gao Lan**, Deng Shaojiang, Ren Wei. Differentially Private Consensus with an Event-Triggered Mechanism[J]. IEEE Transactions on Control of Network Systems, 2019, 6(1): 60-71. (2022IF: 4.2, 中科院三区, [PDF](http://langaouc.github.io/files/TCNS.pdf))
 1. **Gao Lan**, Liao Xiaofeng, Li Huaqing. Pinning Controllability Analysis of Complex Networks with a Distributed Event-Triggered Mechanism[J]. IEEE Transactions on Circuits and Systems II: Express Briefs, 2014, 61(7): 541-545. (2022IF: 4.4, 中科院二区, [PDF](http://langaouc.github.io/files/TCAS-II.pdf))
 1. **Gao Lan**, Liao Xiaofeng, Li Huaqing, Chen Guo. Event-Triggered Control for Multi-Agent Network with Limited Digital Communication[J]. Nonlinear Dynamics, 2015, 82(4): 1659-1669. (2022IF: 5.6, 中科院二区, [PDF](http://langaouc.github.io/files/NonlinearD.pdf))
-1. **Gao Lan**, Liao Xiaofeng, Li Huaqing, Chen Guo. Event-Triggered Control for Multi-Agent Systems with General Directed Topology and Time-Delays[J]. Asian Journal of Control, 2016, 18(3): 945-953. (2022IF: 2.4, 中科院四区, [PDF](http://langaouc.github.io/files/ASJC.pdf))
+1. **Gao Lan**, Liao Xiaofeng, Li Huaqing, Chen Guo. Event-Triggered Control for Multi-Agent Systems with General Directed Topology and Time-Delays[J]. Asian Journal of Control, 2016, 18(3): 945-953. (2022IF: 2.4, 中科院三区, [PDF](http://langaouc.github.io/files/ASJC.pdf))
 
 <!--
 # Honors and Awards
