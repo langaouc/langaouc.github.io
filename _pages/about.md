@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # 个人简介
-高澜，副教授，硕士生导师，重庆大学计算机专业博士，美国加州大学河滨分校联合培养博士。本人主要从事自主智能系统协同控制、安全隐私保护、分布式优化计算等方向的前沿研究工作，以第一或通讯作者身份在IEEE Transactions on Automation Science and Engineering，IEEE Transactions on Control of Network Systems，IEEE Transactions on Cybernetics等国际权威期刊发表SCI论文10余篇。此外，申请发明专利5项，授权2项。
+高澜，副教授，硕士生导师，重庆大学计算机专业博士，美国加州大学河滨分校联合培养博士。本人主要从事自主智能系统协同控制、分布式人工智能、安全隐私保护等方向的前沿研究工作，以第一或通讯作者身份在IEEE Transactions on Automation Science and Engineering，IEEE Transactions on Control of Network Systems，IEEE Transactions on Cybernetics等国际权威期刊发表SCI论文10余篇。此外，申请发明专利5项，授权2项。
 科研项目方面，主持国家自然科学基金青年项目1项，国家博士后基金面上项目1项以及浙江省自然科学基金青年项目1项，同时参与国家重点研发计划课题1项和国家自然科学基金面上项目1项。
 
 # 研究领域
