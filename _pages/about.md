@@ -51,7 +51,7 @@ redirect_from:
 1. 重庆市研究生科研创新项目，主持，已结题，2017.01-2018.12
 
 # 论文发表 
-1. **Gao Lan**, Lu Hao, Wang Jianliang, Yu Xiang, Jiang Peng, Chen Fei, Li Huaqing. Robust Distributed Average Tracking With Disturbance Observer Control[J]. _IEEE Transactions on Automation Science and Engineering_, 2024, Early Online. (2022IF: 5.6, 中科院一区, [PDF](http://langaouc.github.io/files/TASE.pdf))
+1. **Gao Lan**, Lu Hao, Wang Jianliang, Yu Xiang, Jiang Peng, Chen Fei, Li Huaqing. Robust Distributed Average Tracking With Disturbance Observer Control[J]. _IEEE Transactions on Automation Science and Engineering_, 2025, 22: 970-983. (2022IF: 5.6, 中科院一区, [PDF](http://langaouc.github.io/files/TASE.pdf))
 1. Lu Hao, **Gao Lan**\*, Yan Yunda, Hou Mingzhe, Wang Chenliang. Wind disturbance compensated path-following control for fixed-wing UAVs in arbitrarily strong winds[J]. _Chinese Journal of Aeronautics_, 2024, 37(2): 431-445. (2022IF: 5.7, 中科院一区, [PDF](http://langaouc.github.io/files/CJA-2024.pdf))
 1. **Gao Lan**, Deng Shaojiang, Ren Wei, Hu Chunqiang. Differentially Private Consensus with Quantized Communication[J]. _IEEE Transactions on Cybernetics_, 2021, 51(8): 4075-4088. (2022IF: 11.8, 中科院一区, [PDF](http://langaouc.github.io/files/TCYB.pdf))
 1. **Gao Lan**, Zhou Yiqun, Chen Xin, Cai Runfeng, Chen Guo, Li Chaojie. Privacy-preserving Dynamic Average Consensus via Random Perturbation[J]. _IEEE Transactions on Circuits and Systems II: Express Briefs_, 2023, 70(4): 1490-1494. (2022IF: 4.4, 中科院二区, [PDF](http://langaouc.github.io/files/TCAS-II-2023.pdf))
