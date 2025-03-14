@@ -65,7 +65,7 @@ redirect_from:
 
 # 实验室概览
 ## 1. 室内微型无人机编队飞行
-![image](https://langaouc.github.io/images/CPSPC_Lab/image1.png)
+![image](https://langaouc.github.io/images/CPSPC_Lab/image1.png =200x100)
 ## 2. 自主飞行智能无人平台
 ![image](https://langaouc.github.io/images/CPSPC_Lab/image2.png)
 ## 3. 室内室外自主飞行试验
