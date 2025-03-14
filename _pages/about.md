@@ -62,8 +62,8 @@ redirect_from:
 1. **Gao Lan**, Liao Xiaofeng, Li Huaqing, Chen Guo. Event-Triggered Control for Multi-Agent Network with Limited Digital Communication[J]. _Nonlinear Dynamics_, 2015, 82(4): 1659-1669. (2022IF: 5.6, 中科院二区, [PDF](http://langaouc.github.io/files/NonlinearD.pdf))
 1. **Gao Lan**, Liao Xiaofeng, Li Huaqing, Chen Guo. Event-Triggered Control for Multi-Agent Systems with General Directed Topology and Time-Delays[J]. _Asian Journal of Control_, 2016, 18(3): 945-953. (2022IF: 2.4, 中科院三区, [PDF](http://langaouc.github.io/files/ASJC.pdf))
 
-<!--
-# Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
--->
+
+# 实验室概览
+1. 室内微型无人机编队飞行，![image](http://langaouc.github.io/images/室内编队飞行.png)
+2. 自主飞行智能无人平台
+3. 室内室外自主飞行试验
