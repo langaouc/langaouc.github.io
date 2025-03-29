@@ -73,3 +73,7 @@ redirect_from:
 
 ## 3. 室内室外自主飞行试验
 ![image](https://langaouc.github.io/images/CPSPC_Lab/image3.png)
+
+## 4. 无人机应用场景
+![image](https://langaouc.github.io/images/CPSPC_Lab/app1.png)
+![image](https://langaouc.github.io/images/CPSPC_Lab/app2.png)
