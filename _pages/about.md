@@ -77,4 +77,3 @@ redirect_from:
 ## 4. 无人机应用场景
 ![image](https://langaouc.github.io/images/CPSPC_Lab/app1.png)
 ![image](https://langaouc.github.io/images/CPSPC_Lab/app2.png)
-<img src="https://langaouc.github.io/images/CPSPC_Lab/app2.png" width=80%>
